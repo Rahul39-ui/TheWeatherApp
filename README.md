@@ -21,5 +21,4 @@ Usage
 Enter City Name:
 Type the name of the city in the provided textbox.
 
-Click "Get Weather":
 Click the "Get Weather" button to fetch and display the current weather details.
