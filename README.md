@@ -11,7 +11,7 @@ Weather Information: Users can quickly obtain the current weather details of a c
 
 API Integration: Utilizes an external API to fetch accurate and up-to-date weather data.
 
-Technologies Used
+Technologies Used:
 Django
 HTML
 CSS
